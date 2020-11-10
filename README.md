@@ -7,6 +7,10 @@ Use ```init.sh``` to download
 [assimp](https://github.com/assimp/assimp), 
 and [stb_image](https://github.com/nothings/stb/blob/master/stb_image.h).  
 
+```
+./init.sh
+```
+
 For [glad](https://github.com/Dav1dde/glad), 
 you need to use the [online service](https://glad.dav1d.de/) to access the files. 
 
